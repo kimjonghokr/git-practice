@@ -1,7 +1,12 @@
 team: Leopard
 
+<<<<<<< HEAD
 manager: Nicholas
 coach: Oscar
+=======
+manager: Nora
+coach: Mellisah
+>>>>>>> 83e452c (Edit Leopard)
 members:
 - Linda
 - William
