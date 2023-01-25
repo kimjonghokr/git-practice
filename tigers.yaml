@@ -1,7 +1,12 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Branda
 coach: Grance
+=======
+manager: Deborah
+coach: Ruth
+>>>>>>> to-merge
 members:
 - Linda
 - William
